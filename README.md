@@ -1,5 +1,5 @@
 # Hello! I'm Tharani. 👋
-I'm a third-year Software Engineering student at McMaster University with a passion for embedded programming, firmware development, project management and systems engineering.
+I'm a second-year Electrical Engineering student at McMaster University with a passion for embedded programming, firmware development, project management and systems engineering.
 
 ## About Me
 I love baking (especially Lavender Vanilla cupcakes!), doing henna, and learning new languages!
